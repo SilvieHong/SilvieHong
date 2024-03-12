@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi,%20my%20name%20is%20Silvie&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=auto&height=150&section=header&text=Hi,%20my%20name%20is%20Silvie&fontSize=70&fontColor=ffa733)
 ```java
 System.out.println("Hi, there!");
 ```
