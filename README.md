@@ -8,4 +8,4 @@ System.out.println("Hi, there!");
 
 
 <!--leetcode stat-->
-![](https://leetcard.jacoblin.cool/heh9007?ext=heatmap)
+![](https://leetcard.jacoblin.cool/heh9007?animation=false)
