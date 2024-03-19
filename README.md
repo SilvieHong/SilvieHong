@@ -6,6 +6,16 @@ System.out.println("Hi, there!");
 
 <!--github stat-->
 
-
 <!--leetcode stat-->
 ![](https://leetcard.jacoblin.cool/heh9007?animation=false)
+
+
+
+<h3>
+  Kent Beck said, 
+</h3>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=3AA747&vCenter=true&random=false&width=1000&height=20&lines=%22Optimism+is+an+occupational+hazard+of+programming%3A+feedback+is+the+treatment.%22)](https://git.io/typing-svg)
+<h3>
+  And I love this sentence.
+</h3>
