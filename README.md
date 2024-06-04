@@ -2,12 +2,10 @@
 ```java
 System.out.println("Hi, there!!!");
 ```
+<!--Most Used Language-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvieHong&langs_count=10&layout=compact&theme=dark)](https://github.com/SilvieHong/SilvieHong)﻿
+
 <!-- Languages and Tech Stack-->
-
-<!--github stat-->
-
-<!--leetcode stat-->
-![](https://leetcard.jacoblin.cool/heh9007?animation=false)
 
 
 
